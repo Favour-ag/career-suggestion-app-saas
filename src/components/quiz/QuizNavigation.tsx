@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 import { ArrowLeft, ArrowRight, CheckCircle } from 'lucide-react';
 
 interface QuizNavigationProps {

@@ -1,5 +1,5 @@
-import React from 'react';
-import { Button } from '../ui/Button';
+
+import { Button } from '../ui/button';
 import { Card } from '../ui/Card';
 import { ProgressBar } from '../ui/ProgressBar';
 import { useApp } from '../../context/AppContext';
